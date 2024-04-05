@@ -1,4 +1,4 @@
-![MasterHead]([httl](https://i.hizliresim.com/m77pxs7.jpg))
+![MasterHead]([httl]([https://i.hizliresim.com/m77pxs7.jpg](https://i.hizliresim.com/m77pxs7.jpg)))
 <h1 align="center">Hi 👋, I'm Mustafa Yıldız</h1>
 <div align="center">
 
