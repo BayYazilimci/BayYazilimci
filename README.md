@@ -18,6 +18,7 @@ Hello, my name is Mustafa Yıldız and I am 18 years old. Currently, I am workin
 </div>
 <div align="center">
 <div width="50%" align="center">
-https://github-readme-stats.vercel.app/api?username=BayYazilimci&theme=vue-dark&show_icons=true&hide_border=true&count_private=true
+[https://github-readme-stats.vercel.app/api?username=BayYazilimci&theme=vue-dark&show_icons=true&hide_border=true&count_private=true
 </div>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username)](https://github.com/anuraghazra/github-readme-stats)
+](https://github-readme-stats.vercel.app/api?username=BayYazilimci&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
