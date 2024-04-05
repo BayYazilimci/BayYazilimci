@@ -18,6 +18,7 @@ Hello, my name is Mustafa Yıldız and I am 18 years old. Currently, I am workin
 </div>
 <div align="center">
 <div width="50%" align="center">
-<img width="80%" src="https://github-readme-stats.vercel.app/api?username=Resamx&show_icons=true&count_private=true&theme=angular&hide_border=true&bg_color=0D1117">
-<img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=Resamx&theme=black-ice&hide_border=true&stroke=0000&background=0D1117">
+![BayYazilimci's Stats](https://github-readme-stats.vercel.app/api?username=BayYazilimci&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+  ![BayYazilimci's Streak](https://github-readme-streak-stats.herokuapp.com/?user=BayYazilimci&theme=vue-dark&hide_border=true)
+  ![BayYazilimci's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BayYazilimci&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 </div>
