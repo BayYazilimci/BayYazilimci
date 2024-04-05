@@ -1,4 +1,4 @@
-![MasterHead](https://www.canva.com/design/DAGBd_RGSvQ/iz2W7Gf4IfHM5wjaLO1x6Q/view?utm_content=DAGBd_RGSvQ&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel)
+![MasterHead]([httl](https://i.hizliresim.com/m77pxs7.jpg))
 <h1 align="center">Hi 👋, I'm Mustafa Yıldız</h1>
 <div align="center">
 
