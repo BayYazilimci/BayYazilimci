@@ -7,12 +7,12 @@
 </a>
 
 <h3 align="center">Türkçe:
-Merhaba, adım Mustafa Yıldız ve 18 yaşındayım. Şu anda React Native ile uğraşıyorum. Ayrıca, 3 yılı aşkın süredir Lua programlama diliyle ilgileniyorum.
+Merhaba, adım Mustafa Yıldız ve 18 yaşındayım. Şu anda React ve React Native ile uğraşıyorum. Ayrıca, 3 yılı aşkın süredir Lua programlama diliyle ilgileniyorum.
 </h3>
 <br>
 
 <h3 align="center">İngilizce:
-Hello, my name is Mustafa Yıldız and I am 18 years old. Currently, I am working with React Native. Additionally, I have been programming in Lua for over 3 years.</h3>
+Hello, my name is Mustafa Yıldız and I am 18 years old. Currently, I am working with React and  React Native. Additionally, I have been programming in Lua for over 3 years.</h3>
 <br>
 
 </div>
